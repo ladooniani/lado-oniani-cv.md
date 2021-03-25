@@ -6,16 +6,14 @@
 
 ## PDF
 
-📎 📌 📃 :es: :pdf: [Download PDF](https://github.com/ladooniani/resume-cv/blob/main/rcv/Lado-Oniani-RCV.pdf)
+📌 📃  [Download PDF](https://github.com/ladooniani/resume-cv/blob/main/rcv/Lado-Oniani-RCV.pdf)
 
 # Contact:
 
-- Email: ladooniani@gmail.com
-- Address: Tbilisi, 5 Sulkhan Tsintsadze St, 0160
-- Phone: +995 599 38 25 09
-- Date of birth: 08-04-1980
-- Nationality: Georgian
-- Link: https://github.com/ladooniani
+📫 Email: ladooniani@gmail.com
+🌍 Address: Tbilisi, 5 Sulkhan Tsintsadze St, 0160
+☎️ Phone: +995 599 38 25 09
+🌐 Link: https://github.com/ladooniani
 
 # Objective:
 
