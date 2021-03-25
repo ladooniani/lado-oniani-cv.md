@@ -28,6 +28,37 @@ In 2016 I've founded an independent laboratory startup, inventing and prototypin
 
 As a software engineer, I provide services of product development for complex solutions for different types of desktop/web applications, as well as specialized tasks in intelligent robotics and related types of application design. 
 
+# Programming languages 
+
+- C# 
+- Python
+- C++
+- Pascal
+- JavaScript
+- TypeScript
+- PHP
+- HTML
+- CSS
+- 3D Modeling
+- Micro-controllers
+
+# Skills:
+
+- Software research and development 
+- Software architecture 
+- Software engineering and programming 
+- Proficient in many types of accounting systems and software 
+- Mechanical engineering 
+- Artistic and industrial design
+- Sound engineering 
+    
+# Languages:
+
+- English
+- Georgian
+- Russian 
+- Spanish
+
 # Experience:
 
 - May 2005-August 2010 
@@ -53,32 +84,3 @@ As a software engineer, I provide services of product development for complex so
    **Founder, researcher, software and mechanical engineer** 
 
    The research and development in computational logic and mechanics, invention and investigation synthetic entity architecture, experimental and assistive educational, therapeutic, social, and humanitarian interactive and robotic technologies and concepts
-
-# Programming languages 
-
-- C# 
-- Python
-- C++
-- JavaScript
-- PHP
-- HTML
-- CSS
-- 3D Modeling
-- Micro-controllers
-
-# Skills:
-
-- Software research and development 
-- Software architecture 
-- Software engineering and programming 
-- Proficient in many types of accounting systems and software 
-- Mechanical engineering 
-- Artistic and industrial design
-- Sound engineering 
-    
-# Languages:
-
-- English
-- Georgian
-- Russian 
-- Spanish
