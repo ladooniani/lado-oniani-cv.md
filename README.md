@@ -16,6 +16,8 @@
 
 ☎️ Phone: +995 599 38 25 09
 
+🐣 Date of birth: 08-04-1980 
+
 🌐 Link: https://github.com/ladooniani
 
 # Objective:
