@@ -89,9 +89,9 @@ As a software engineer, I provide services of product development for complex so
 
    The research and development in computational logic and mechanics, invention and investigation synthetic entity architecture, experimental and assistive educational, therapeutic, social, and humanitarian interactive and robotic technologies and concepts
    
-   # Languages:
+ # Languages:
 
-    • English 
-    • Georgian 
-    • Russian 
-    • Spanish 
+- English 
+- Georgian 
+- Russian 
+- Spanish 
