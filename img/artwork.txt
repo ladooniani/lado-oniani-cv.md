@@ -1,1 +1,6 @@
+
+Artwork:
+
+https://github.com/ladooniani/resume-cv/blob/main/img/img.jpg
+
 Copyright © 2016-2021 Lado Oniani, TAI Lab. All Rights Reserved
