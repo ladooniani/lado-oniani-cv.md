@@ -6,7 +6,7 @@
 
 ## Desktop and web/mobile full-stack (front/back-end) developer
 
-![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img.jpg)
+![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img1.jpg)
  
 # Contact:
 
