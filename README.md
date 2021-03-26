@@ -6,13 +6,15 @@
 
 ## Desktop and web/mobile full-stack (front/back-end) developer
 
-![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/lado_oniani_(8).jpg)
+![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/image.jpg)
  
 ## PDF
 
 📌 📃  [RCV PDF](https://github.com/ladooniani/resume-cv/blob/main/Lado-Oniani-RCV.pdf)
 
 # Contact:
+
+![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/lado-oniani.jpg)
 
 ✉️ Email: ladooniani@gmail.com
 
