@@ -1,12 +1,12 @@
  ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png)
 
-![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/lado_oniani_(8).jpg)
-
 # Lado Oniani
 
 ## Software engineer
 
 ## Desktop and web/mobile full-stack (front/back-end) developer
+
+![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/lado_oniani_(8).jpg)
  
 ## PDF
 
