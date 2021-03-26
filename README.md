@@ -2,7 +2,7 @@
 
 ## Software engineer
 
-## Desktop and full-stack web/mobile front/back-end developer
+## Desktop and web/mobile full-stack (front/back-end) developer
 
 ## PDF
 
@@ -26,7 +26,7 @@ My research and development in computational logic and mechanics focused on the 
 
 In 2016 I've founded an independent laboratory startup, inventing and prototyping program and mechanism of artificial entity robotic system, developing computing methods and techniques in computational linguistics, natural language processing, understanding and generation, machine learning, computer vision, mechanical engineering, and industrial/artistic design.
 
-As a software engineer, I provide services of product development for complex solutions for different types of desktop and web/mobile front/back-end architecture, as well as specialized tasks in intelligent robotics and related types of application design. 
+As a software engineer, I provide services of product development for complex solutions for different types of desktop and web/mobile application, as well as specialized tasks in intelligent robotics and related types of software design. 
 
  
 # Skills:
