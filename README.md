@@ -10,7 +10,7 @@
  
 ## PDF
 
-📌 📃  [RCV PDF](https://github.com/ladooniani/resume-cv/blob/main/Lado-Oniani-RCV.pdf)
+📌 📃  [Lado-Oniani-RCV.pdf](https://github.com/ladooniani/resume-cv/blob/main/Lado-Oniani-RCV.pdf)
 
 # Contact:
 
