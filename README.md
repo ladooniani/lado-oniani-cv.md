@@ -91,3 +91,7 @@ As a software engineer, I provide services of product development for complex so
 <code><img height="18" src="https://www.imagine-dsuk.com/wp-content/uploads/2017/05/Autodesk-Inventor-Logo.jpg"></code>
 <code><img height="18" src="https://upload.wikimedia.org/wikipedia/en/d/d5/Logo_for_3ds_Max.png"></code>
 <code><img height="18" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Blender.svg"></code> -->
+
+## Content info
+
+- [Artwork Copyright note]( https://github.com/ladooniani/resume-cv/blob/main/img/artwork.txt)
