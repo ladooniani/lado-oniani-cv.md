@@ -94,4 +94,4 @@ As a software engineer, I provide services of product development for complex so
 
 ## Content info
 
-- [Artwork Copyright note]( https://github.com/ladooniani/resume-cv/blob/main/img/artwork.txt)
+- [Artwork copyright note]( https://github.com/ladooniani/resume-cv/blob/main/img/artwork.txt)
