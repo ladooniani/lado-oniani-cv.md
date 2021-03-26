@@ -2,7 +2,7 @@
 
 ## Software engineer
 
-## Full-stack desktop and web/mobile front/back-end developer
+## Desktop and full-stack web/mobile front/back-end developer
 
 ## PDF
 
@@ -26,39 +26,43 @@ My research and development in computational logic and mechanics focused on the 
 
 In 2016 I've founded an independent laboratory startup, inventing and prototyping program and mechanism of artificial entity robotic system, developing computing methods and techniques in computational linguistics, natural language processing, understanding and generation, machine learning, computer vision, mechanical engineering, and industrial/artistic design.
 
-As a software engineer, I provide services of product development for complex solutions for different types of desktop/web applications, as well as specialized tasks in intelligent robotics and related types of application design. 
+As a software engineer, I provide services of product development for complex solutions for different types of desktop and web/mobile front/back-end architecture, as well as specialized tasks in intelligent robotics and related types of application design. 
 
-# Programming languages 
-
-- C# 
-- Python
-- C++
-- Pascal
-- JavaScript
-- TypeScript
-- PHP
-- HTML
-- CSS
-- 3D Modeling
-- Micro-controllers
-
+ 
 # Skills:
 
-- Software research and development 
-- Software architecture 
-- Software engineering and programming 
-- Proficient in many types of accounting systems and software 
-- Mechanical engineering 
-- Artistic and industrial design
-- Sound engineering 
-    
-# Languages:
+    • Software engineering and programming 
+    • Mechanical engineering 
+    • Micro-controllers 
+    • 3D Modeling 
+    • Artistic and industrial design
 
-- English
-- Georgian
-- Russian 
-- Spanish
+# Programming languages:
 
+- C# 
+- Python 
+- C++ 
+- Pascal
+- JavaScript 
+- TypeScript
+- PHP 
+- HTML 
+- CSS 
+
+# Interests and fields of research:
+
+- Computational semantics 
+- Computational linguistics 
+- Natural language processing-understanding/generation 
+- Algorithm design 
+- Machine learning 
+- Deep learning 
+- Computer vision 
+- Cognitive science 
+- Chat-bot development 
+- Mechatronics 
+- Animatronics 
+ 
 # Experience:
 
 - May 2005-August 2010 
@@ -84,3 +88,10 @@ As a software engineer, I provide services of product development for complex so
    **Founder, researcher, software and mechanical engineer** 
 
    The research and development in computational logic and mechanics, invention and investigation synthetic entity architecture, experimental and assistive educational, therapeutic, social, and humanitarian interactive and robotic technologies and concepts
+   
+   # Languages:
+
+    • English 
+    • Georgian 
+    • Russian 
+    • Spanish 
