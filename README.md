@@ -10,7 +10,7 @@
 
 # Contact:
 
-📫 Email: ladooniani@gmail.com
+✉️ Email: ladooniani@gmail.com
 
 🌍 Address: Tbilisi, 5 Sulkhan Tsintsadze St, 0160
 
@@ -62,7 +62,6 @@ As a software engineer, I provide services of product development for complex so
 - Chat-bot development 
 - Mechatronics 
 - Animatronics 
-- 
 
 ### 📫 How to reach me: 
 
