@@ -31,11 +31,11 @@ As a software engineer, I provide services of product development for complex so
  
 # Skills:
 
-    • Software engineering and programming 
-    • Mechanical engineering 
-    • Micro-controllers 
-    • 3D Modeling 
-    • Artistic and industrial design
+- Software engineering and programming 
+- Mechanical engineering 
+- Micro-controllers 
+- 3D Modeling 
+- Artistic and industrial design
 
 # Programming languages:
 
