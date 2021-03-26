@@ -14,10 +14,6 @@
 
 ✉️ Email: ladooniani@gmail.com
 
-🌍 Address: Tbilisi, 5 Sulkhan Tsintsadze St, 0160
-
-☎️ Phone: +995 599 38 25 09
-
 🐣 Date of birth: 08-04-1980 
 
 🌐 Link: https://github.com/ladooniani
