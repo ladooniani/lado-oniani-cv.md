@@ -8,10 +8,6 @@
 
 ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img.jpg)
  
-## PDF
-
-📌 📃  [Lado-Oniani-RCV.pdf](https://github.com/ladooniani/resume-cv/blob/main/Lado-Oniani-RCV.pdf)
-
 # Contact:
 
 ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/lado-oniani.jpg)
@@ -25,6 +21,8 @@
 🐣 Date of birth: 08-04-1980 
 
 🌐 Link: https://github.com/ladooniani
+
+📃 Pdf: [Lado-Oniani-RCV.pdf](https://github.com/ladooniani/resume-cv/blob/main/Lado-Oniani-RCV.pdf)
 
 # Objective:
 
