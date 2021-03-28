@@ -62,12 +62,6 @@ As a software engineer, I provide services of product development for complex so
 - Chat-bot development 
 - Mechatronics 
 - Animatronics 
-
-### 📫 How to reach me: 
-
- <a href="mailto:ladooniani@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="40" style="vertical-align:top; margin:4px"></a>
-   <a href="https://www.linkedin.com/in/lado-oniani/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a> 
-  <a href="https://www.facebook.com/socprofile/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="40" style="vertical-align:top; margin:4px"></a>
   
 ### 🧰 Languages and tools:
 
@@ -91,6 +85,12 @@ As a software engineer, I provide services of product development for complex so
 <code><img height="18" src="https://www.imagine-dsuk.com/wp-content/uploads/2017/05/Autodesk-Inventor-Logo.jpg"></code>
 <code><img height="18" src="https://upload.wikimedia.org/wikipedia/en/d/d5/Logo_for_3ds_Max.png"></code>
 <code><img height="18" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Blender.svg"></code> -->
+
+### 📫 How to reach me: 
+
+ <a href="mailto:ladooniani@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://www.linkedin.com/in/lado-oniani/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://www.facebook.com/socprofile/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="40" style="vertical-align:top; margin:4px"></a>
 
 ## Lab
 
