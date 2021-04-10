@@ -96,7 +96,7 @@ As a software engineer, I provide services of product development for complex so
 
 ## Lab
 
-### 🔬 [TAI lab](https://github.com/ladooniani/terbinari) 
+### [TAI lab](https://github.com/ladooniani/terbinari) 
 
 ## Content info
 
