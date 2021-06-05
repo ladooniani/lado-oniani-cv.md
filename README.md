@@ -2,7 +2,7 @@
 
 # Lado Oniani
 
-## Artist, inventor, software and mechanical engineer
+## - Artist - Inventor - Software and mechanical engineer
 
 ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img1.jpg)
  
