@@ -59,7 +59,9 @@ As a software engineer, I provide desktop and web/mobile front/back-end full-sta
 - Computer vision 
 - Cognitive science 
 - Chat-bot development 
+- Mechanics
 - Mechatronics 
+- Robotics 
 - Animatronics 
   
 ### 🧰 Languages and tools:
