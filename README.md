@@ -67,13 +67,19 @@ As a software engineer, I provide desktop and web/mobile front/back-end full-sta
 # Education:
 
 • 1997-2001
+
 Technical University
+
 Automated systems of control and data processing
+
 Systems engineer
 
 • 1998-2001
+
 Academy of the Humanitarian Arts
+
 Fine arts
+
 Graphic artist and study of art
   
 ### 🧰 Languages and tools:
