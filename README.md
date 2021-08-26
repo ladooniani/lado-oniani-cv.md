@@ -24,7 +24,7 @@
 
 My research and development in computational logic and mechanics focused on the invention and investigation of synthetic entity architecture, experimental and assistive educational, therapeutic, social, and humanitarian interactive and robotic technologies and concepts.
 
-In 2016 I've founded an independent laboratory [Terbinari CBM project](https://github.com/ladooniani/terbinari) startup, inventing and prototyping program and mechanism of artificial entity robotic system, developing computing methods and techniques in computational linguistics, natural language processing, understanding and generation, machine learning, computer vision, mechanical engineering, and industrial/artistic design.
+In 2016 I've founded an independent laboratory startup, inventing and prototyping program and mechanism of artificial entity robotic system (Check: [Terbinari CBM project](https://github.com/ladooniani/terbinari)), developing computing methods and techniques in computational linguistics, natural language processing, understanding and generation, machine learning, computer vision, mechanical engineering, and industrial/artistic design.
 
 As a software engineer, I provide desktop and web/mobile front/back-end full-stack development service of product complex solution for different types of application, as well as specialized tasks in intelligent robotics and related types of design. 
 
