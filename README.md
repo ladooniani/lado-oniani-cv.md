@@ -64,8 +64,6 @@ As a software engineer, I provide desktop and web/mobile front/back-end full-sta
 - Robotics 
 - Animatronics 
 
-<!---
-
 # Education:
 
 • 1997-2001\
@@ -77,9 +75,7 @@ Systems engineer
 Academy of the Humanitarian Arts\
 Fine arts\
 Graphic artist and study of art 
-
---->
-  
+ 
 # 🧰 Languages and tools:
 
 <code><img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
