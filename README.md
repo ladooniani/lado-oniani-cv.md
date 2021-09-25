@@ -1,12 +1,12 @@
- ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png)
+ <!--- ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png) --->
+
+![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-chess-place.png)
 
 # Lado Oniani
 
 ## ● Artist ● Software and mechanical engineer
 
-<!--- ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img1.jpg) --->
-
-![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-chess-place.png)
+![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img1.jpg) 
 
 # Contact:
 
