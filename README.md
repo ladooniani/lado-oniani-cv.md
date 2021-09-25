@@ -1,6 +1,6 @@
  <!--- ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png) --->
 
-![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-chess-place.png)
+![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-chess-place-radio.png)
 
 # Lado Oniani
 
