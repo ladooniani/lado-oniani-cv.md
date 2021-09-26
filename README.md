@@ -36,7 +36,10 @@ As a software engineer, I provide desktop and web/mobile front/back-end full-sta
 - Artistic and industrial design
 - Micro-controllers 
 
-<img src="https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-chess-place-radio-fisheye.png" width="69">
+
+![alternative text](https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-chess-place-radio-fisheye.png "Image Title")
+
+<!--- <img src="https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-chess-place-radio-fisheye.png" width="69"> --->
 
 # Programming languages:
 
