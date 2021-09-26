@@ -28,6 +28,10 @@ In 2016 I've founded an independent laboratory startup, inventing, modeling, and
 
 As a software engineer, I provide desktop and web/mobile front/back-end full-stack development service of product complex solutions for different types of applications, as well as specialized tasks in intelligent robotics and related types of design.
 
+#
+
+<img src="https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-chess-place-radio-fisheye.png" width="63"> 
+ 
 # Skills:
 
 - Software engineering and programming 
@@ -38,8 +42,6 @@ As a software engineer, I provide desktop and web/mobile front/back-end full-sta
 
 # Programming languages:
 
-<img src="https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-chess-place-radio-fisheye.png" width="63"> 
- 
 - C# 
 - Python 
 - C++ 
