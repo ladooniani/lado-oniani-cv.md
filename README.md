@@ -3,6 +3,9 @@
 
 <img src="https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-chess-place-radio-fisheye.png" width="69">
 
+![alt-text-1](https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-chess-place-radio-fisheye.png) ## Text
+
+
 # Lado Oniani
 
 ## ● Artist ● Software and mechanical engineer
