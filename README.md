@@ -1,10 +1,4 @@
-<!--- ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png) --->
-<!--- ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-chess-place-radio.png) --->
-
-<img src="https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-chess-place-radio-fisheye.png" width="69">
-
-![alt-text-1](https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-chess-place-radio-fisheye.png) ## Text
-
+![alt text](https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png) 
 
 # Lado Oniani
 
@@ -41,6 +35,8 @@ As a software engineer, I provide desktop and web/mobile front/back-end full-sta
 - 3D design, part and assembly modeling
 - Artistic and industrial design
 - Micro-controllers 
+
+<img src="https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-chess-place-radio-fisheye.png" width="69">
 
 # Programming languages:
 
