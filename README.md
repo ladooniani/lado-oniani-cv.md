@@ -22,6 +22,9 @@
 
 <img src="https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-chess-place-radio-fisheye.png" width="63"> 
  
+ [<img alt="Rubber duck on " width="63px" src="https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-chess-place-radio-fisheye.png" />](https://github.com/ladooniani/resume-cv/blob/main/README.md)
+ 
+ 
 # Objective:
 
 My research and development in computational logic and mechanics focused on the invention and investigation of synthetic entity architecture, experimental and assistive educational, therapeutic, social, and humanitarian interactive and robotic technologies and concepts.
