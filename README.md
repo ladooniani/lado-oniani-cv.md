@@ -38,6 +38,8 @@ As a software engineer, I provide desktop and web/mobile front/back-end full-sta
 
 # Programming languages:
 
+<img src="https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-chess-place-radio-fisheye.png" width="46"> 
+ 
 - C# 
 - Python 
 - C++ 
@@ -50,8 +52,6 @@ As a software engineer, I provide desktop and web/mobile front/back-end full-sta
 
 # Interests and fields of research:
 
- <img src="https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-chess-place-radio-fisheye.png" width="46"> 
- 
 - Computational semantics 
 - Computational linguistics 
 - Natural language processing-understanding/generation 
