@@ -1,7 +1,7 @@
 <!--- ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png) --->
 <!--- ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-chess-place-radio.png) --->
 
-<img src="https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-chess-place-fisheye-radio.png" width="69">
+<img src="https://github.com/ladooniani/resume-cv/blob/main/img/rubber-duck-on-the-chess-place-radio-fisheye.png" width="69">
 
 # Lado Oniani
 
