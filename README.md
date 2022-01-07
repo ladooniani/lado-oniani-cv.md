@@ -4,7 +4,7 @@
 
 ## ● Artist ● Software and mechanical engineer
 
-![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img1.jpg) 
+<--- ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img1.jpg)  --->
 
 # Contact:
 
