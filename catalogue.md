@@ -14,6 +14,7 @@ Intelligent systems and robotics laboratory**
  - [Terbinari CBM Robot project (desc. md)](https://github.com/ladooniani/terbinari)
  - [Terbinari CBM Robot project TAI lab. (desc. md)](https://github.com/Toy-Artificial-Intelligence-lab/terbinari-cbm-project)
  - [Terbinari CBM (Control Bot Mechanism) robot device modular mechanisms (desc. md)](https://github.com/ladooniani/terbinari-cbm-parts/blob/main/README.md)
+ - [Terbinari CBM (Control Bot Mechanism) robot device modular mechanisms (GitLab archive)](https://gitlab.com/ladooniani/terbinari-cbm-robot-mechanism)
  - [Terbinari CBM Tet.01 Operating program (desc. md)](https://github.com/ladooniani/terbinari-cbm/blob/main/README.md )
  - [VCM (Vision control motility method/mechanism) device (desc. md)](https://github.com/ladooniani/VCM/blob/main/README.md)
  - [SVM (Speech viseme motility method/mechanism) device (desc. md)]( https://github.com/ladooniani/SVM/blob/main/README.md)
@@ -24,6 +25,13 @@ Intelligent systems and robotics laboratory**
  - [Terbinari CBM robot controller (code repo)](https://github.com/ladooniani/terbinari-cbm-controller)
  - [TAI lab (page)](https://ladooniani.github.io/tailab/)
  - [TAI lab static page (code repo)](https://github.com/ladooniani/tailab)
+ - [TAI lab (GitLab page)](https://ladooniani.gitlab.io/tailab/)
+ - [TAI lab static page (GitLab code repo)](https://gitlab.com/ladooniani/tailab)
+
+## Terbinari CBM archive
+
+ - [Terbinari CBM Robot parts archive (GitLab)](https://gitlab.com/ladooniani/terbinari-cbm-robot-mechanism)
+ - [GitLab empty repo](https://gitlab.com/ladooniani/terbinari)
 
 ### Free Tools
 
@@ -72,6 +80,8 @@ Intelligent systems and robotics laboratory**
 
  - [Axial suspension carousel rotation mechanism device (desc. md)](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device)
  - [Through axle suspended rotating mechanism device controller sketch (code repo)](https://github.com/ladooniani/Through-axle-suspended-rotating-mechanism-device-controller-sketch)
+ - [https://gitlab.com/ladooniani/Through-axle-suspended-rotating-mechanism-device-prototype (GitLab archive)](https://gitlab.com/ladooniani/Through-axle-suspended-rotating-mechanism-device-prototype)
+
 
 ### Adjustable ergonomic table constructor
 
