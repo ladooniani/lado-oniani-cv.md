@@ -1,6 +1,6 @@
 # Repositories and markdowns
 
-## Terbinari CBM project
+### Terbinari CBM project
 
  - [Terbinari CBM Robot project (desc. md)](https://github.com/ladooniani/terbinari)
  - [Terbinari CBM Robot project TAI lab. (desc. md)](https://github.com/Toy-Artificial-Intelligence-lab/terbinari-cbm-project)
@@ -19,7 +19,7 @@
  - [TAI lab (GitLab page)](https://ladooniani.gitlab.io/tailab/)
  - [TAI lab static page (GitLab code repo)](https://gitlab.com/ladooniani/tailab)
 
-## Terbinari CBM archive
+### Terbinari CBM archive
 
  - [Terbinari CBM Robot parts archive (GitLab)](https://gitlab.com/ladooniani/terbinari-cbm-robot-mechanism)
  - [GitLab empty repo](https://gitlab.com/ladooniani/terbinari)
@@ -91,7 +91,7 @@
 
  - [Pim game (code repo)](https://github.com/ladooniani/Pim)
 
-## Info markdowns
+### Info markdowns
 
  - [About me (desc. md)](https://github.com/ladooniani/ladooniani)
  - [Lado Oniani RCV (desc. md)](https://github.com/ladooniani/resume-cv/blob/main/README.md)
