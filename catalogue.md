@@ -36,7 +36,7 @@ Intelligent systems and robotics laboratory**
 ### Paragrid program
 
 - [Paragrid (code repo)](https://github.com/ladooniani/Data-parametric-sequencer)
-- [Paragrid" desktop application documentation (desc. md)](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/README.md)
+- [Paragrid desktop application documentation (desc. md)](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/README.md)
 - [Paragrid desktop application short description (desc. md)](https://github.com/ladooniani/paragrid)
  
 ### Bot Web Assistant 
