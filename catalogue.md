@@ -1,12 +1,3 @@
-
- # [Toy Artificial Intelligence lab.](https://ladooniani.github.io/tailab/) 
- 
- ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/toy_artificial_intelligence_lab_logo.png)
-
-**Toy Artificial Intelligence\
-Research, innovation and technology development\
-Intelligent systems and robotics laboratory**
-
 # Repositories and markdowns
 
 ## Terbinari CBM project
@@ -108,11 +99,4 @@ Intelligent systems and robotics laboratory**
  - [Art archive (desc. md)](https://github.com/ladooniani/art-archive)
  - [Text](https://github.com/Toy-Artificial-Intelligence-lab/text)
 
-## Lab
-
-### 🔬 [TAI lab](https://ladooniani.github.io/tailab/) 
-
-<sub>📃 [TAI lab. Terbinari CBM project pdf](https://github.com/ladooniani/tailab/blob/master/docs/tai.pdf)<sub>
-
 <sub>Copyright © 2016-2021 Lado Oniani, TAI Lab. All Rights Reserved<sub>
-
