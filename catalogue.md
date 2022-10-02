@@ -87,7 +87,7 @@
  - [AI-chatbot (code repo)](https://github.com/ladooniani/AI-chatbot)
  - [GPT-3 API OpenAI C#/.NET SDK access (code repo)](https://github.com/ladooniani/GPT-3-API)
 
-### Oter projects
+### Other projects
 
  - [Pim game (code repo)](https://github.com/ladooniani/Pim)
 
