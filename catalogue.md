@@ -15,9 +15,6 @@ Intelligent systems and robotics laboratory**
  - [Lado Oniani RCV (desc. md)](https://github.com/ladooniani/resume-cv/blob/main/README.md)
  - [Link archive (desc. md)](https://github.com/ladooniani/readme)
  - [Art archive (desc. md)](https://github.com/ladooniani/art-archive)
- - [Test](https://github.com/ladooniani/test)
- - [Markups](https://github.com/ladooniani/Markups)
- 
 
 ## Terbinari CBM project
 
