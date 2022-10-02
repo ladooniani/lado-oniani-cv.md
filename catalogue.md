@@ -9,13 +9,6 @@ Intelligent systems and robotics laboratory**
 
 # Repositories and markdowns
 
-## Info markdowns
-
- - [About me (desc. md)](https://github.com/ladooniani/ladooniani)
- - [Lado Oniani RCV (desc. md)](https://github.com/ladooniani/resume-cv/blob/main/README.md)
- - [Link archive (desc. md)](https://github.com/ladooniani/readme)
- - [Art archive (desc. md)](https://github.com/ladooniani/art-archive)
-
 ## Terbinari CBM project
 
  - [Terbinari CBM Robot project (desc. md)](https://github.com/ladooniani/terbinari)
@@ -96,6 +89,14 @@ Intelligent systems and robotics laboratory**
 ### Oter projects
 
  - [Pim game (code repo)](https://github.com/ladooniani/Pim)
+
+## Info markdowns
+
+ - [About me (desc. md)](https://github.com/ladooniani/ladooniani)
+ - [Lado Oniani RCV (desc. md)](https://github.com/ladooniani/resume-cv/blob/main/README.md)
+ - [Link archive (desc. md)](https://github.com/ladooniani/readme)
+ - [Art archive (desc. md)](https://github.com/ladooniani/art-archive)
+ - [Text](https://github.com/Toy-Artificial-Intelligence-lab/text)
 
 ## Lab
 
