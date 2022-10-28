@@ -18,7 +18,7 @@
 
 ⚗ Link: https://gitlab.com/ladooniani
 
-📃 Pdf: [Lado-Oniani-RCV.pdf](https://github.com/ladooniani/resume-cv/blob/main/img/Lado-Oniani-RCV.pdf)
+📃 Pdf: [Lado-Oniani-RCV.pdf](https://github.com/ladooniani/resume-cv/blob/main/img/Lado-Oniani-CV.pdf)
 
 # Objective:
 
