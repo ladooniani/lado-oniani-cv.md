@@ -55,8 +55,24 @@ As a freelance software engineer, I provide desktop and web/mobile front/back-en
 - JavaScript - (AngularJS MVC)
 - Python - (PyQT desktop application, Flask web framework)
 - PHP, HTML, HTML5, CSS, SCSS, Bootstrap
-- C++ (Microcontroller)
 - DBMS: MySQL (SQL), PostgreSQL, MSSQL, Firebase
+- C++ (Microcontroller)
+
+# Practice and experience software types:
+
+- Editors
+- NLP semantic analysis algorithms 
+- Computational algorithms 
+- Chatbots
+- Graphic algorithms
+- Generators 
+- Machine learning applications
+- Analytics and classification
+- Computer Vision applications
+- Robotics application
+- Game development
+- CMS Website Blog
+- UX/UI design
 
 # Interests and fields of research:
 
