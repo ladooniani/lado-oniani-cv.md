@@ -28,6 +28,8 @@ In 2016 I've founded an independent laboratory startup, inventing, modeling, and
 
 As a freelance software engineer, I provide desktop and web/mobile front/back-end full-stack development services of product complex solutions for different types of applications, as well as specialized tasks in intelligent robotics and related types of design.
 
+My motivation in engineering is an passionate interest that challenges me to find and create useful solutions for real-world tasks with proficiency in computer programming, data structures, and algorithms, the ability to quickly learn and generate creative approaches, understand software design and find the best practices.
+
 # Skills:
 
 - Software engineering and programming 
