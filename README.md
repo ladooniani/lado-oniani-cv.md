@@ -58,7 +58,7 @@ As a freelance software engineer, I provide desktop and web/mobile front/back-en
 - Machine learning applications
 - Analytics and classification
 - Computer Vision applications
-- Robotics application
+- Robotics applications
 - Game development
 - CMS Website Blog
 - UX/UI design
