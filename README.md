@@ -36,7 +36,7 @@ As a freelance software engineer, I provide desktop and web/mobile front/back-en
 - Artistic and industrial design
 - Micro-controllers 
  
-# Programming languages and key skills in desktop and web application development: 
+# Programming languages and key skills: 
 
 - C# - (.NET Framework - WinForms, WPF, ASP.NET (Web Forms, ASP.NET MVC, ASP.NET Web Pages) / .NET Core (UWP, ASP.NET Core))
 - TypeScript - (Angular, Ionic) 
@@ -47,7 +47,7 @@ As a freelance software engineer, I provide desktop and web/mobile front/back-en
 - C++ (Microcontroller)
 - Pascal
 
-# Software type development practice and experience:
+# Desktop and web application software types development practice and experience:
 
 - Editors
 - NLP semantic analysis algorithms 
