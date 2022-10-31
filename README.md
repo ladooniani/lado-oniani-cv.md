@@ -58,7 +58,7 @@ As a freelance software engineer, I provide desktop and web/mobile front/back-en
 - DBMS: MySQL (SQL), PostgreSQL, MSSQL, Firebase
 - C++ (Microcontroller)
 
-# Practice and experience software types:
+# Software type development practice and experience:
 
 - Editors
 - NLP semantic analysis algorithms 
