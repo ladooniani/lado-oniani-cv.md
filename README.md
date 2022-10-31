@@ -44,7 +44,7 @@ As a freelance software engineer, I provide desktop and web/mobile front/back-en
 - Python - (PyQT desktop application, Flask web framework)
 - PHP, HTML, HTML5, CSS, SCSS, Bootstrap
 - DBMS: MySQL (SQL), PostgreSQL, MSSQL, Firebase
-- C++ (Microcontroller)
+- C++ (Microcontrollers)
 - Pascal
 
 # Desktop and web application software types development practice and experience:
