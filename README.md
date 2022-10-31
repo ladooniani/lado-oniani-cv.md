@@ -47,7 +47,7 @@ As a freelance software engineer, I provide desktop and web/mobile front/back-en
 - C++ (Microcontrollers)
 - Pascal
 
-# Desktop and web application software types development practice and experience:
+# Desktop and web application software types development experience:
 
 - Editors
 - NLP semantic analysis algorithms 
