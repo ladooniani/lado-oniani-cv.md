@@ -48,6 +48,16 @@ As a freelance software engineer, I provide desktop and web/mobile front/back-en
 - HTML 
 - CSS 
 
+# Key skills in desktop and web application development: 
+
+- C# - (.NET Framework - WinForms, WPF, ASP.NET (Web Forms, ASP.NET MVC, ASP.NET Web Pages) / .NET Core (UWP, ASP.NET Core))
+- TypeScript - (Angular, Ionic) 
+- JavaScript - (AngularJS MVC)
+- Python - (PyQT desktop application, Flask web framework)
+- PHP, HTML, HTML5, CSS, SCSS, Bootstrap
+- C++ (Microcontroller)
+- DBMS: MySQL (SQL), PostgreSQL, MSSQL, Firebase
+
 # Interests and fields of research:
 
 - Computational semantics 
