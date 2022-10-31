@@ -26,8 +26,8 @@ My research and development in computational logic and mechanics focused on the 
 
 In 2016 I've founded an independent laboratory startup, inventing, modeling, and prototyping program and mechanism of artificial entity robotic system architecture (Check: [Terbinari CBM project](https://github.com/ladooniani/terbinari)), developing computing methods and techniques in computational linguistics, natural language processing, understanding and generation, machine learning, computer vision, mechanical engineering, and industrial/artistic design.
 
-As a freelance software engineer, I provide desktop and web/mobile front/back-end full-stack development services of product complex solutions for different types of applications, as well as specialized tasks in intelligent robotics and related types of design.
-
+As a freelance software engineer, I provide desktop and web/mobile front/back-end full-stack development services of product complex solutions for different types of applications, as well as specialized tasks in intelligent robotics and related types of design with proficiency in computer programming, data structures, and algorithms, as well as the ability to quickly learn and creative approach, understand software design, and find the best practices solution.
+  
 # Skills:
 
 - Software engineering and programming 
@@ -36,7 +36,7 @@ As a freelance software engineer, I provide desktop and web/mobile front/back-en
 - Artistic and industrial design
 - Micro-controllers 
  
-# Programming languages and key skills: 
+# Programming languages and frameworks: 
 
 - C# - (.NET Framework - WinForms, WPF, ASP.NET (Web Forms, ASP.NET MVC, ASP.NET Web Pages) / .NET Core (UWP, ASP.NET Core))
 - TypeScript - (Angular, Ionic) 
