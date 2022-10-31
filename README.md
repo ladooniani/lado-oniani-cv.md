@@ -126,6 +126,8 @@ Graphic artist and study of art
 
 ### [TAI lab](https://github.com/ladooniani/terbinari) 
 
+🔍 [Content](https://github.com/ladooniani/readme/blob/main/README.md)
+
 ## Content info
 
 - [Artwork copyright note]( https://github.com/ladooniani/resume-cv/blob/main/img/artwork.txt)
