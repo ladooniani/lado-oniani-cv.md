@@ -1,9 +1,0 @@
-Artworks: 
-
-https://github.com/ladooniani/resume-cv/blob/main/img/img0.jpg
-https://github.com/ladooniani/resume-cv/blob/main/img/img1.jpg
-https://github.com/ladooniani/resume-cv/blob/main/img/img2.jpg
-https://github.com/ladooniani/resume-cv/blob/main/img/img3.jpg
-https://github.com/ladooniani/resume-cv/blob/main/img/img6.jpg
-
-Copyright © 2016-2021 Lado Oniani, TAI Lab. All Rights Reserved
