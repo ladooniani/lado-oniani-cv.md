@@ -42,7 +42,7 @@ My motivation in engineering is an interest that challenges me to find and creat
 
 - C# - (.NET Framework - WinForms, WPF, ASP.NET (Web Forms, ASP.NET MVC, ASP.NET Web Pages) / .NET Core (UWP, ASP.NET Core))
 - TypeScript - (Angular, Ionic) 
-- JavaScript - (AngularJS MVC)
+- JavaScript - (Node.js, AngularJS MVC)
 - Python - (PyQT desktop application, Flask web framework)
 - PHP, HTML, HTML5, CSS, SCSS, Bootstrap
 - DBMS: MySQL (SQL), PostgreSQL, MSSQL, Firebase
