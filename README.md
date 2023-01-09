@@ -18,7 +18,7 @@
 
 ⚗ Link: https://gitlab.com/ladooniani
 
-📌 https://www.npmjs.com/~ladooniani
+📌 Link: https://www.npmjs.com/~ladooniani
 
 📃 Pdf: [Lado-Oniani-RCV.pdf](https://github.com/ladooniani/resume-cv/blob/main/img/Lado-Oniani-CV.pdf)
 
