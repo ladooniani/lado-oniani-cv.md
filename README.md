@@ -46,8 +46,9 @@ My motivation in engineering is an interest that challenges me to find and creat
 - TypeScript - (Angular, Ionic) 
 - JavaScript - (Node.js, AngularJS MVC)
 - Python - (PyQT desktop application, Flask web framework)
-- PHP, HTML, HTML5, CSS, SCSS, Bootstrap
-- DBMS: MySQL (SQL), PostgreSQL, MSSQL, Firebase
+- PHP
+- HTML, HTML5, CSS, SCSS, Bootstrap
+- DBMS: MySQL (SQL), PostgreSQL, MSSQL, MongoDB, Firebase
 - C++ (Microcontrollers)
 - Pascal
 
@@ -64,7 +65,7 @@ My motivation in engineering is an interest that challenges me to find and creat
 - Computer Vision applications
 - Robotics applications
 - Game development
-- CMS Website Blog
+- CMS (Content management system)
 - UX/UI design
 
 # Interests and fields of research:
