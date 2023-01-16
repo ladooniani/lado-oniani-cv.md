@@ -22,6 +22,8 @@
 
 📃 Pdf: [Lado-Oniani-RCV.pdf](https://github.com/ladooniani/resume-cv/blob/main/img/Lado-Oniani-CV.pdf)
 
+📞 (+995) 599 382 509
+
 # Objective:
 
 My research and development in computational logic and mechanics focused on the invention and investigation of synthetic entity architecture, experimental and assistive educational, therapeutic, social, and humanitarian interactive and robotic technologies and concepts.
