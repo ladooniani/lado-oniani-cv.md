@@ -1,7 +1,5 @@
 ## Lado Oniani - Software Engineer / Artist
 
-![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/lado-oniani.jpg)
-
 ### Contact
 
 - Email: [ladooniani@gmail.com](mailto:ladooniani@gmail.com)
