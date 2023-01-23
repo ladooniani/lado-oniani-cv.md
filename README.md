@@ -10,6 +10,27 @@
 
 ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/lado-oniani.jpg)
 
+
+### Contact
+
+- Email: ladooniani@gmail.com
+- Date of birth: 08-04-1980
+- GitHub: https://github.com/ladooniani
+- GitLab: https://gitlab.com/ladooniani
+- NPM: https://www.npmjs.com/~ladooniani
+- Resume: Lado-Oniani-RCV.pdf
+- Phone: (+995) 599 382 509
+
+### Contact
+
+- Email: [ladooniani@gmail.com](mailto:ladooniani@gmail.com)
+- Date of birth: 08-04-1980
+- GitHub: [https://github.com/ladooniani](https://github.com/ladooniani)
+- GitLab: [https://gitlab.com/ladooniani](https://gitlab.com/ladooniani)
+- NPM: [https://www.npmjs.com/~ladooniani](https://www.npmjs.com/~ladooniani)
+- Resume: [Lado-Oniani-RCV.pdf](Lado-Oniani-RCV.pdf)
+- Phone: (+995) 599 382 509
+
 ✉️ Email: ladooniani@gmail.com
 
 🐣 Date of birth: 08-04-1980 
