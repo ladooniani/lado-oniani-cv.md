@@ -74,12 +74,4 @@ I have experience working with a variety of programming languages and frameworks
    <a href="https://www.linkedin.com/in/lado-oniani/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a> 
   <a href="https://www.facebook.com/socprofile/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="40" style="vertical-align:top; margin:4px"></a>
 
-## Lab
 
-### [TAI lab](https://github.com/ladooniani/terbinari) 
-
-🔍 [Content](https://github.com/ladooniani/readme/blob/main/README.md)
-
-## Content info
-
-- [Artwork copyright note]( https://github.com/ladooniani/resume-cv/blob/main/img/artwork.txt)
