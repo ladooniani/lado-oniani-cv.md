@@ -1,15 +1,5 @@
 ## Lado Oniani - Software Engineer / Artist
 
-### Contact
-
-- Email: [ladooniani@gmail.com](mailto:ladooniani@gmail.com)
-- Date of birth: 08-04-1980
-- GitHub: [https://github.com/ladooniani](https://github.com/ladooniani)
-- GitLab: [https://gitlab.com/ladooniani](https://gitlab.com/ladooniani)
-- NPM: [https://www.npmjs.com/~ladooniani](https://www.npmjs.com/~ladooniani)
-- Resume: [Lado-Oniani-RCV.pdf](Lado-Oniani-RCV.pdf)
-- Phone: (+995) 599 382 509
-
 # Objective:
 
 As a software engineer and multidisciplinary artist with expertise in mechanical engineering and industrial design, I am dedicated to developing cutting-edge technologies in the field of synthetic entities, experimental educational and assistive technologies, and interactive robotic concepts. My research and development focus is on natural language processing and the creation of advanced computing methods and techniques.
@@ -29,6 +19,14 @@ I have experience working with a variety of programming languages and frameworks
 - 1997-2001: Technical University - Bachelor's degree in Automated Systems of Control and Data Processing, Systems Engineer
 - 1998-2001: Academy of the Humanitarian Arts - Fine Arts, Graphic Artist and Art Studies.
 
+### Contact
 
+- Email: [ladooniani@gmail.com](mailto:ladooniani@gmail.com)
+- Date of birth: 08-04-1980
+- GitHub: [https://github.com/ladooniani](https://github.com/ladooniani)
+- GitLab: [https://gitlab.com/ladooniani](https://gitlab.com/ladooniani)
+- NPM: [https://www.npmjs.com/~ladooniani](https://www.npmjs.com/~ladooniani)
+- Resume: [Lado-Oniani-RCV.pdf](Lado-Oniani-RCV.pdf)
+- Phone: (+995) 599 382 509
 
 
