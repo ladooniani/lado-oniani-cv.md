@@ -54,6 +54,9 @@ My motivation in engineering is an interest that challenges me to find and creat
  -->
 # Programming languages and frameworks: 
 
+I specialize in full-stack software development and have experience with a variety of programming languages and frameworks including C# (.NET Framework and .NET Core), TypeScript, JavaScript, Python, PHP, and HTML/CSS. I have experience with desktop and web application development, utilizing technologies such as WinForms, WPF, ASP.NET, Angular, Ionic, Node.js, PyQT, Flask, and more. Additionally, I am familiar with a range of databases including MySQL, PostgreSQL, MSSQL, MongoDB, and Firebase. I also have experience with C++ and microcontrollers.
+
+<!--
 - C# - (.NET Framework - WinForms, WPF, ASP.NET (Web Forms, ASP.NET MVC, ASP.NET Web Pages) / .NET Core (UWP, ASP.NET Core))
 - TypeScript - (Angular, Ionic) 
 - JavaScript - (Node.js, AngularJS MVC)
@@ -63,7 +66,7 @@ My motivation in engineering is an interest that challenges me to find and creat
 - DBMS: MySQL (SQL), PostgreSQL, MSSQL, MongoDB, Firebase
 - C++ (Microcontrollers)
 - Pascal
-<!--
+ 
 # Desktop and web application software types development experience:
 
 - Editors
