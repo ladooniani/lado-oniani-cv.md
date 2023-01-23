@@ -30,6 +30,10 @@ I am a software engineer and multidisciplinary artist with expertise in mechanic
 
 As a freelance software engineer, I offer full-stack development services for complex products and applications, as well as specialized tasks in intelligent robotics and design. My passion for engineering drives me to find and create innovative solutions for real-world problems. I am proficient in computer programming, data structures, and algorithms and possess a strong ability to quickly learn and approach projects with a creative and analytical mindset. I am committed to utilizing best practices in software design to deliver high-quality solutions.
 
+# Skills:
+
+I specialize in full-stack software development, with experience in creating desktop and web applications, including editors, NLP semantic analysis algorithms, chatbots, graphic algorithms, generators, and machine learning applications. My interests in research and development extend to areas such as natural language processing, algorithm design, and robotics. I am dedicated to expanding my expertise and staying current with the latest advancements in these areas. Additionally, I have experience in 3D design, part and assembly modeling, as well as artistic and industrial design.
+
 <!--
 My research and development in computational logic and mechanics focused on the invention and investigation of synthetic entity architecture, experimental and assistive educational, therapeutic, social, and humanitarian interactive and robotic technologies and concepts.
 
@@ -38,7 +42,7 @@ In 2016 I've founded an independent laboratory startup, inventing, modeling, and
 As a freelance software engineer, I provide desktop and web/mobile front/back-end full-stack development services of product complex solutions for different types of applications, as well as specialized tasks in intelligent robotics and related types of design.
 
 My motivation in engineering is an interest that challenges me to find and create helpful solutions for real-world tasks with proficiency in computer programming, data structures, and algorithms, quickly learn and generate creative approaches, understand software design and find the best practices. 
--->
+
 
 # Skills:
 
@@ -47,7 +51,7 @@ My motivation in engineering is an interest that challenges me to find and creat
 - 3D design, part and assembly modeling
 - Artistic and industrial design
 - Micro-controllers 
- 
+ -->
 # Programming languages and frameworks: 
 
 - C# - (.NET Framework - WinForms, WPF, ASP.NET (Web Forms, ASP.NET MVC, ASP.NET Web Pages) / .NET Core (UWP, ASP.NET Core))
@@ -59,7 +63,7 @@ My motivation in engineering is an interest that challenges me to find and creat
 - DBMS: MySQL (SQL), PostgreSQL, MSSQL, MongoDB, Firebase
 - C++ (Microcontrollers)
 - Pascal
-
+<!--
 # Desktop and web application software types development experience:
 
 - Editors
@@ -91,7 +95,7 @@ My motivation in engineering is an interest that challenges me to find and creat
 - Mechatronics 
 - Robotics 
 - Animatronics 
-
+-->
 # Education:
 
 • 1997-2001\
