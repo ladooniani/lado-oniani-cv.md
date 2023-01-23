@@ -26,13 +26,19 @@
 
 # Objective:
 
+I am a software engineer and multidisciplinary artist with expertise in mechanical engineering and industrial design. I specialize in the development of synthetic entities, experimental educational and assistive technologies, and interactive robotic concepts. My research and development focus on natural language processing, prototyping artificial entity architecture, and developing advanced computing methods and techniques.
+
+As a freelance software engineer, I offer full-stack development services for complex products and applications, as well as specialized tasks in intelligent robotics and design. My passion for engineering drives me to find and create innovative solutions for real-world problems. I am proficient in computer programming, data structures, and algorithms and possess a strong ability to quickly learn and approach projects with a creative and analytical mindset. I am committed to utilizing best practices in software design to deliver high-quality solutions.
+
+<!--
 My research and development in computational logic and mechanics focused on the invention and investigation of synthetic entity architecture, experimental and assistive educational, therapeutic, social, and humanitarian interactive and robotic technologies and concepts.
 
 In 2016 I've founded an independent laboratory startup, inventing, modeling, and prototyping program and mechanism of artificial entity robotic system architecture (Check: [Terbinari CBM project](https://github.com/ladooniani/terbinari)), developing computing methods and techniques in computational linguistics, natural language processing, understanding and generation, machine learning, computer vision, mechanical engineering, and industrial/artistic design.
 
 As a freelance software engineer, I provide desktop and web/mobile front/back-end full-stack development services of product complex solutions for different types of applications, as well as specialized tasks in intelligent robotics and related types of design.
 
-My motivation in engineering is an interest that challenges me to find and create helpful solutions for real-world tasks with proficiency in computer programming, data structures, and algorithms, quickly learn and generate creative approaches, understand software design and find the best practices.
+My motivation in engineering is an interest that challenges me to find and create helpful solutions for real-world tasks with proficiency in computer programming, data structures, and algorithms, quickly learn and generate creative approaches, understand software design and find the best practices. 
+-->
 
 # Skills:
 
