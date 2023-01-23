@@ -1,12 +1,4 @@
-![alt text](https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png) 
-
-# Lado Oniani
-
-## Software Engineer / Artist
-
-<!--- ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img1.jpg)  
-
-# Contact: --->
+## Lado Oniani - Software Engineer / Artist
 
 ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/lado-oniani.jpg)
 
