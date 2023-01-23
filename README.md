@@ -34,6 +34,10 @@ As a freelance software engineer, I offer full-stack development services for co
 
 I specialize in full-stack software development, with experience in creating desktop and web applications, including editors, NLP semantic analysis algorithms, chatbots, graphic algorithms, generators, and machine learning applications. My interests in research and development extend to areas such as natural language processing, algorithm design, and robotics. I am dedicated to expanding my expertise and staying current with the latest advancements in these areas. Additionally, I have experience in 3D design, part and assembly modeling, as well as artistic and industrial design.
 
+# Programming languages and frameworks: 
+
+I specialize in full-stack software development and have experience with a variety of programming languages and frameworks including C# (.NET Framework and .NET Core), TypeScript, JavaScript, Python, PHP, and HTML/CSS. I have experience with desktop and web application development, utilizing technologies such as WinForms, WPF, ASP.NET, Angular, Ionic, Node.js, PyQT, Flask, and more. Additionally, I am familiar with a range of databases including MySQL, PostgreSQL, MSSQL, MongoDB, and Firebase. I also have experience with C++ and microcontrollers.
+
 <!--
 My research and development in computational logic and mechanics focused on the invention and investigation of synthetic entity architecture, experimental and assistive educational, therapeutic, social, and humanitarian interactive and robotic technologies and concepts.
 
@@ -51,12 +55,7 @@ My motivation in engineering is an interest that challenges me to find and creat
 - 3D design, part and assembly modeling
 - Artistic and industrial design
 - Micro-controllers 
- -->
-# Programming languages and frameworks: 
-
-I specialize in full-stack software development and have experience with a variety of programming languages and frameworks including C# (.NET Framework and .NET Core), TypeScript, JavaScript, Python, PHP, and HTML/CSS. I have experience with desktop and web application development, utilizing technologies such as WinForms, WPF, ASP.NET, Angular, Ionic, Node.js, PyQT, Flask, and more. Additionally, I am familiar with a range of databases including MySQL, PostgreSQL, MSSQL, MongoDB, and Firebase. I also have experience with C++ and microcontrollers.
-
-<!--
+ 
 - C# - (.NET Framework - WinForms, WPF, ASP.NET (Web Forms, ASP.NET MVC, ASP.NET Web Pages) / .NET Core (UWP, ASP.NET Core))
 - TypeScript - (Angular, Ionic) 
 - JavaScript - (Node.js, AngularJS MVC)
