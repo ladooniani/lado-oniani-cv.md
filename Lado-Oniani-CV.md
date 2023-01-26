@@ -10,6 +10,43 @@ In my role as a freelance software engineer, I offer full-stack development serv
 
 My specialties include full-stack software development and the creation of desktop and web applications, including editors, NLP semantic analysis algorithms, chatbots, graphic algorithms, generators, and machine learning applications. My interests in research and development extend to areas such as natural language processing, algorithm design, and robotics. I am dedicated to expanding my expertise and staying current with the latest advancements in these areas. Additionally, I have experience in 3D design, part and assembly modeling, as well as artistic and industrial design.
 
+## Full-stack software development and computer programming:
+- Full-stack software development
+- Computer programming
+- User interface design
+- Proficient in various programming languages
+- Experience in data structures and algorithms
+- Experience in designing and implementing software systems and architectures
+- Specialization in natural language processing
+- Experience in developing algorithms for various applications
+## Mechanical engineering and industrial design:
+- Mechanical engineering
+- Industrial design
+- Product development
+- Designing and manufacturing of mechanical systems and components
+- Proficient in CAD software and 3D modeling
+- Experience in industrial design principles
+- Experience in application of industrial design principles in robotics and other product development
+- Keen eye for aesthetics and ergonomics
+## Intelligent robotics and control systems:
+- Intelligent robotics
+- Control systems
+- Robot design and creation
+- Machine learning
+- Computer vision
+- Artificial intelligence
+- Synthetic entities development
+- Interactive technologies development
+- Educational and humanitarian technology development
+- Knowledge of machine learning and AI principles and applications
+## Analytical problem-solving and creative thinking:
+- Strong analytical skills
+- Utilization of design thinking
+- Knowledge of user-centered design principles
+- Real-world problem-solving
+- Focus on designing and implementing creative and efficient solutions
+- Continuously learning new techniques and best practices in programming and data structures.
+
 # Programming languages and frameworks:
 
 I have experience working with a variety of programming languages and frameworks including C# (.NET Framework and .NET Core), TypeScript, JavaScript, Python, PHP, and HTML/CSS. I have experience with desktop and web application development, utilizing technologies such as WinForms, WPF, ASP.NET, Angular, Ionic, Node.js, PyQT, Flask, and more. I am also familiar with a range of databases including MySQL, PostgreSQL, MSSQL, MongoDB, and Firebase. I also have experience with C++ and microcontrollers.
