@@ -59,5 +59,5 @@ I have experience working with a variety of programming languages and frameworks
 - GitHub: [https://github.com/ladooniani](https://github.com/ladooniani)
 - GitLab: [https://gitlab.com/ladooniani](https://gitlab.com/ladooniani)
 - NPM: [https://www.npmjs.com/~ladooniani](https://www.npmjs.com/~ladooniani)
-- Resume: [Lado-Oniani-RCV.pdf](Lado-Oniani-RCV.pdf)
+- Resume: [Lado-Oniani-CV.pdf](Lado-Oniani-CV.pdf)
 - Phone: (+995) 599 382 509
