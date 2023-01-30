@@ -29,7 +29,6 @@ I have experience working with a variety of programming languages and frameworks
 - Product development
 - Designing and manufacturing of mechanical systems and components
 - Proficient in CAD software and 3D modeling
-- Experience in industrial design principles
 - Experience in application of industrial design principles in robotics and other product development
 - Keen eye for aesthetics and ergonomics
 ## Intelligent robotics and control systems:
