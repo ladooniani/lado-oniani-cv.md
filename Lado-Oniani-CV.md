@@ -38,7 +38,6 @@ I have experience working with a variety of programming languages and frameworks
 - Computer vision
 - Synthetic entities development
 - Interactive technologies development
-- Educational and humanitarian technology development
 - Knowledge of machine learning and Artificial intelligence principles and applications
 ## Analytical problem-solving and creative thinking:
 - Strong analytical skills
