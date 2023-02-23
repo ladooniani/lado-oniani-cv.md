@@ -12,7 +12,6 @@ My specialties include full-stack software development and the creation of deskt
 
 I have experience working with a variety of programming languages and frameworks including C# (.NET Framework and .NET Core), JavaScript (Node.js, AngularJS MVC),  TypeScript,  Python (PyQT desktop application, Flask web framework), PHP, HTML, HTML5, CSS, SCSS, Bootstrap. I have experience with desktop and web application development, utilizing technologies such as WinForms, WPF, ASP.NET, Angular, Ionic, and more.
 
-## Skills:
 - C# (.NET Framework and .NET Core)
 - JavaScript (Node.js, AngularJS MVC)
 - Python (PyQT desktop application, Flask web framework)
