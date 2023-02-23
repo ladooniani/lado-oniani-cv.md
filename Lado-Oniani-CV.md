@@ -10,9 +10,50 @@ In my role as a freelance software engineer, I offer full-stack development serv
 
 My specialties include full-stack software development and the creation of desktop and web applications, including editors, NLP semantic analysis algorithms, chatbots, graphic algorithms, generators, and machine learning applications. My interests in research and development extend to areas such as natural language processing, algorithm design, and robotics. I am dedicated to expanding my expertise and staying current with the latest advancements in these areas. Additionally, I have experience in 3D design, part and assembly modeling, as well as artistic and industrial design.
 
-# Programming languages and frameworks:
+I have experience working with a variety of programming languages and frameworks including C# (.NET Framework and .NET Core), JavaScript (Node.js, AngularJS MVC),  TypeScript,  Python (PyQT desktop application, Flask web framework), PHP, HTML, HTML5, CSS, SCSS, Bootstrap. I have experience with desktop and web application development, utilizing technologies such as WinForms, WPF, ASP.NET, Angular, Ionic, and more.
 
-I have experience working with a variety of programming languages and frameworks including C# (.NET Framework and .NET Core), TypeScript, JavaScript, Python, PHP, and HTML/CSS. I have experience with desktop and web application development, utilizing technologies such as WinForms, WPF, ASP.NET, Angular, Ionic, Node.js, PyQT, Flask, and more. I am also familiar with a range of databases including MySQL, PostgreSQL, MSSQL, MongoDB, and Firebase. I also have experience with C++ and microcontrollers.
+## Skills:
+- C# (.NET Framework and .NET Core)
+- JavaScript (Node.js, AngularJS MVC)
+- Python (PyQT desktop application, Flask web framework)
+- PHP, HTML, HTML5, CSS, SCSS, Bootstrap
+- CAD software (3D modelling/assembly)
+- C++ (Microcontrollers)
+- Pascal
+
+## Application Types:
+- Desktop (C#, WinForms, WPF, PyQT)
+- Web (ASP.NET, Angular, Ionic, Flask, Node.js, PHP, - HTML/CSS/SCSS, Bootstrap)
+Mobile (Ionic)
+
+## Programming Languages and Frameworks:
+- C#
+    - .NET Framework
+        - WinForms
+        - WPF
+        - ASP.NET (Web Forms, ASP.NET MVC, ASP.NET Web Pages)
+    - .NET Core
+        - UWP
+        - ASP.NET Core
+- JavaScript
+    - Node.js
+    - AngularJS MVC
+- TypeScript
+    - Angular
+    - Ionic
+- Python
+    - PyQT (desktop application)
+    - Flask (web framework)
+- PHP
+- HTML/CSS
+    - Bootstrap
+
+## Databases:
+- MySQL (SQL)
+- PostgreSQL
+- MSSQL
+- MongoDB
+- Firebase
 
 ## Full-stack software development and computer programming:
 - Full-stack software development
