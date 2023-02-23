@@ -10,17 +10,18 @@ In my role as a freelance software engineer, I offer full-stack development serv
 
 My specialties include full-stack software development and the creation of desktop and web applications, including editors, NLP semantic analysis algorithms, chatbots, graphic algorithms, generators, and machine learning applications. My interests in research and development extend to areas such as natural language processing, algorithm design, and robotics. I am dedicated to expanding my expertise and staying current with the latest advancements in these areas. Additionally, I have experience in 3D design, part and assembly modeling, as well as artistic and industrial design.
 
-I have experience working with a variety of programming languages and frameworks including C# (.NET Framework and .NET Core), JavaScript (Node.js, AngularJS MVC),  TypeScript,  Python (PyQT desktop application, Flask web framework), PHP, HTML, HTML5, CSS, SCSS, Bootstrap. I have experience with desktop and web application development, utilizing technologies such as WinForms, WPF, ASP.NET, Angular, Ionic, and more.
+I have experience working with a variety of programming languages and frameworks including C# (.NET Framework and .NET Core), JavaScript (Node.js, AngularJS MVC),  TypeScript (Angular, Ionic), Python (PyQT desktop application, Flask web framework), PHP, HTML, HTML5, CSS, SCSS, Bootstrap. I have experience with desktop and web application development, utilizing technologies such as WinForms, WPF, ASP.NET, Angular, Ionic, and more.
 
 - C# (.NET Framework and .NET Core)
 - JavaScript (Node.js, AngularJS MVC)
+- TypeScript (Angular, Ionic)
 - Python (PyQT desktop application, Flask web framework)
 - PHP, HTML, HTML5, CSS, SCSS, Bootstrap
 - CAD software (3D modelling/assembly)
 - C++ (Microcontrollers)
 - Pascal
 
-## Application Types:
+### Application Types:
 - Desktop (C#, WinForms, WPF, PyQT)
 - Web (ASP.NET, Angular, Ionic, Flask, Node.js, PHP, - HTML/CSS/SCSS, Bootstrap)
 Mobile (Ionic)
