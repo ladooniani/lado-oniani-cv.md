@@ -33,10 +33,12 @@ Mobile (Ionic)
         - WPF
         - ASP.NET (Web Forms, ASP.NET MVC, ASP.NET Web Pages)
     - .NET Core
+        - MAUI (Multi-platform App UI)
         - UWP
         - ASP.NET Core
 - JavaScript
     - Node.js
+    - Electron
     - AngularJS MVC
 - TypeScript
     - Angular
