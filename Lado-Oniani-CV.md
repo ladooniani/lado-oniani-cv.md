@@ -50,6 +50,12 @@ Mobile (Ionic)
 - HTML/CSS
     - Bootstrap
 
+## Cloud Computing:
+- AWS Lambda Function (Serverless)
+    - Language-agnostic
+- Kubernetes (Container Orchestration)
+    - Language-agnostic
+
 ## Databases:
 - MySQL (SQL)
 - PostgreSQL
