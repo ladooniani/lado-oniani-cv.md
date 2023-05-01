@@ -104,9 +104,11 @@ Mobile (Ionic)
 ### Contact
 
 - Email: [ladooniani@gmail.com](mailto:ladooniani@gmail.com)
-<!-- Date of birth: 08-04-1980 --->
+
 - GitHub: [https://github.com/ladooniani](https://github.com/ladooniani)
 - GitLab: [https://gitlab.com/ladooniani](https://gitlab.com/ladooniani)
 - NPM: [https://www.npmjs.com/~ladooniani](https://www.npmjs.com/~ladooniani)
-<!-- - Resume: [Lado-Oniani-CV.pdf](https://github.com/ladooniani/lado-oniani-cv.md/blob/main/img/Lado-Oniani-CV.pdf)  --->
 - Phone: (+995) 599 382 509
+
+<!-- - Date of birth: 08-04-1980  
+  - Resume: [Lado-Oniani-CV.pdf](https://github.com/ladooniani/lado-oniani-cv.md/blob/main/img/Lado-Oniani-CV.pdf)  --->
