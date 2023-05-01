@@ -96,15 +96,14 @@ Mobile (Ionic)
 - Focus on designing and implementing creative and efficient solutions
 - Continuously learning new techniques and best practices in programming and data structures.
 
-<!-- # Education:
-
+<!-- 
+# Education:
 - 1997-2001: Technical University - Bachelor's degree in Automated Systems of Control and Data Processing, Systems Engineer
 - 1998-2001: Academy of the Humanitarian Arts - Fine Arts, Graphic Artist and Art Studies.
  --->
 ### Contact
 
 - Email: [ladooniani@gmail.com](mailto:ladooniani@gmail.com)
-
 - GitHub: [https://github.com/ladooniani](https://github.com/ladooniani)
 - GitLab: [https://gitlab.com/ladooniani](https://gitlab.com/ladooniani)
 - NPM: [https://www.npmjs.com/~ladooniani](https://www.npmjs.com/~ladooniani)
