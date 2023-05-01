@@ -108,5 +108,5 @@ Mobile (Ionic)
 - GitHub: [https://github.com/ladooniani](https://github.com/ladooniani)
 - GitLab: [https://gitlab.com/ladooniani](https://gitlab.com/ladooniani)
 - NPM: [https://www.npmjs.com/~ladooniani](https://www.npmjs.com/~ladooniani)
-- Resume: [Lado-Oniani-CV.pdf](https://github.com/ladooniani/lado-oniani-cv.md/blob/main/img/Lado-Oniani-CV.pdf)
+<!-- - Resume: [Lado-Oniani-CV.pdf](https://github.com/ladooniani/lado-oniani-cv.md/blob/main/img/Lado-Oniani-CV.pdf)  --->
 - Phone: (+995) 599 382 509
