@@ -58,10 +58,11 @@ Mobile (Ionic)
 
 ## Databases:
 - MySQL (SQL)
-- PostgreSQL
-- MSSQL
+- DynamoDB
 - MongoDB
 - Firebase
+- PostgreSQL
+- MSSQL
 
 ## Full-stack software development and computer programming:
 - Full-stack software development
