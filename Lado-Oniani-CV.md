@@ -52,12 +52,16 @@ Mobile (Ionic)
 
 ## Cloud Computing:
 
+Proficient in cloud computing with a focus on AWS services, including serverless architecture, RESTful API management, object storage, NoSQL database design, EC2 instance deployment, and container orchestration with Kubernetes.
+
+<!---
 - AWS Lambda Function (Serverless architecture and developing applications using Lambda functions).
 - AWS API Gateway (Managing and designing RESTful APIs).
 - AWS S3 (Object storage, file management, and data retrieval).
 - AWS DynamoDB (Designing and querying NoSQL databases, ensuring scalability).
 - AWS EC2 (Deploying and managing EC2 instances).
 - Kubernetes (Container Orchestration).
+--->
 
 ## Databases:
 - MySQL (SQL)
