@@ -104,6 +104,8 @@ Proficient in cloud computing with a focus on AWS services, including serverless
 - Focus on designing and implementing creative and efficient solutions
 - Continuously learning new techniques and best practices in programming and data structures.
 
+## [Education and work](https://github.com/ladooniani/lado-oniani-cv.md/blob/main/ew.md)
+
 ### Contact
 
 - Email: [ladooniani@gmail.com](mailto:ladooniani@gmail.com)
@@ -112,6 +114,6 @@ Proficient in cloud computing with a focus on AWS services, including serverless
 - NPM: [https://www.npmjs.com/~ladooniani](https://www.npmjs.com/~ladooniani)
 - Phone: (+995) 599 382 509
 
-[Education and work](https://github.com/ladooniani/lado-oniani-cv.md/blob/main/ew.md)
+
 <!-- - Date of birth: 08-04-1980  
   - Resume: [Lado-Oniani-CV.pdf](https://github.com/ladooniani/lado-oniani-cv.md/blob/main/img/Lado-Oniani-CV.pdf)  --->
