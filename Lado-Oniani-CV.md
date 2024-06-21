@@ -104,7 +104,7 @@ Proficient in cloud computing with a focus on AWS services, including serverless
 - Focus on designing and implementing creative and efficient solutions
 - Continuously learning new techniques and best practices in programming and data structures.
 
-## [Education and work](https://github.com/ladooniani/lado-oniani-cv.md/blob/main/ew.md)
+## [Education and Work Experience](https://github.com/ladooniani/lado-oniani-cv.md/blob/main/ew.md)
 
 ### Contact
 
