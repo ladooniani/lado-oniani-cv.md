@@ -1,5 +1,5 @@
  
-# Education:
+## Education:
 
 - 1997-2001: Technical University - Bachelor's degree in Automated Systems of Control and Data Processing, Systems Engineer
 - 1998-2001: Academy of the Humanitarian Arts - Fine Arts, Graphic Artist and Art Studies.
