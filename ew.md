@@ -7,7 +7,7 @@
 ## Work Experience
 
 ### Founder, Researcher, Software and Mechanical Engineer
-**Toy Artificial Intelligence Laboratory**  
+**Software and Mechanical Engineering Research Laboratory**  
 _Self-employed_  
 **October 2016 - Present** (7 years 9 months)
 
