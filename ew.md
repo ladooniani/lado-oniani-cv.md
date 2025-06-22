@@ -9,7 +9,7 @@
 ### Founder, Researcher, Software and Mechanical Engineer
 **Software and Mechanical Engineering Research Laboratory**  
 _Self-employed_  
-**October 2016 - Present** (7 years 9 months)
+**October 2016 - Present** (9 years)
 
 ### Software Engineer on Sound Processing Tools, Composer, Sound Expert
 **HI LIFE INTERACTIVE, LLC**  
